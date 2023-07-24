@@ -1,1 +1,29 @@
-# simple-to-do-uikit-toy-project
+<img src="https://user-images.githubusercontent.com/21079970/224588704-8340a864-0560-4f13-8586-eac4937dcfe5.png" align="center" width="150" height="150">
+
+# 심플한 투두리스트
+## 🍎Overview
+`프로젝트` 심플한 투두리스트 <br>
+`기술스택` <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <br>
+`게시일자` 2023년 7월 24일(월) <br>
+
+## ⚒️Built With
+
+### 라이브러리
+
+* UIKit
+
+## 🏙️Images
+
+| 이미지① | 이미지② | 이미지③ | 
+| :--: | :--: | :--:
+| <img src="<이미지 주소>" align="center" width="235" height="511"> | <img src="<이미지 주소>" align="center" width="235" height="511"> | <img src="<이미지 주소>" align="center" width="235" height="511"> |
+
+## 📚What I Learned
+
+* `TableView`
+* `UITabBarItem`
+* `User Defaults`
+ 
+## 👩🏻‍💻Reference
+
+* [ToDoList IOS App with UIKit](https://iosexample.com/todolist-ios-app-with-ui-kit/)
