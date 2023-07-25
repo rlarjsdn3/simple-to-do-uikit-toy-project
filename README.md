@@ -20,9 +20,9 @@
 
 ## 📚What I Learned
 
-* `TableView`
-* `UITabBarItem`
-* `User Defaults`
+* `TableView`를 사용하는 법
+* `UITabBarItem`를 사용하는 법
+* `User Defaults`를 사용하는 법
  
 ## 👩🏻‍💻Reference
 
