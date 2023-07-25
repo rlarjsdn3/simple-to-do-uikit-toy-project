@@ -6,9 +6,13 @@
 `기술스택` <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <br>
 `게시일자` 2023년 7월 24일(월) <br>
 
-## ⚒️Built With
+## ✅Features
 
-### 라이브러리
+* 할 일 추가
+* 할 일 삭제
+* 할 일 재정렬
+
+## ⚒️Built With
 
 * UIKit
 
